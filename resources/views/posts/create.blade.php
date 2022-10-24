@@ -17,7 +17,7 @@
               <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label">Post Creator</label>
                 <select class="form-control">
-                    <option>kareem</option>
+                    <option>Mohamed</option>
                 </select>
               </div>
 
